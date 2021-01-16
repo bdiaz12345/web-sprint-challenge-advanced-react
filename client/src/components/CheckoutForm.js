@@ -26,6 +26,7 @@ const CheckoutForm = (props) => {
     e.preventDefault();
     setShowSuccessMessage(true);
     setValues(initialValue)
+    
   };
 
   return (
